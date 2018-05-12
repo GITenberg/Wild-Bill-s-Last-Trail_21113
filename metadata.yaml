@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '9740'
     url: http://www.gutenberg.org/2009/agents/9740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21113#Wild-Bill-s-Last-Trail
 gutenberg_issued: '2007-04-16'
 gutenberg_type: Text
 identifiers:
